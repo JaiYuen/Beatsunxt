@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "analyze": "nuxt build --analyze"
+  },
+  "config":{
+    "nuxt":{"host":"127.0.0.1",
+    "port":"7777"}
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "nprogress": "^0.2.0",
+    "nuxt": "^2.14.6"
+  },
+  "devDependencies": {}
+}
