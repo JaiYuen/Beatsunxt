@@ -1,4 +1,14 @@
-# myapp
+<!--
+ * @Author: your name
+ * @Date: 2021-02-01 11:39:45
+ * @LastEditTime: 2021-02-08 15:05:32
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \Beatsunxt\README.md
+-->
+# Beatsunxt
+
+![avatar](../Beatsunxt/static/slogan.png)
 
 ## Build Setup
 
